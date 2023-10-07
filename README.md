@@ -1,5 +1,11 @@
-# DP-pFL
-nips23-Dynamic Personalized Federated Learning with Adaptive Differential Privacy
+# code implementation repo for nips23-Dynamic Personalized Federated Learning with Adaptive Differential Privacy
 
-- **currently working on the final camera-ready version**
-- we'll release the code soon
+## introduction
+- the main_base.py is the inplementation of DP-FedAvg
+- the ours.py is the proposed method
+
+## example usage 
+```sh
+python main_base.py
+python ours.py
+```
