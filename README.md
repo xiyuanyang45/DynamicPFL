@@ -2,7 +2,7 @@
 
 ## introduction
 - the main_base.py is the inplementation of DP-FedAvg
-- the ours.py is the proposed method
+- the ours.py is the method we proposed
 
 ## example usage 
 ```sh
