@@ -1,8 +1,3 @@
-# nips23-Dynamic Personalized Federated Learning with Adaptive Differential Privacy
-
-
-
-
 # Dynamic Personalized Federated Learning with Adaptive Differential Privacy
 
 > Rethinking Federated Learning with Domain Shift: A Prototype View,
