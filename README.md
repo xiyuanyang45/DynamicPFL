@@ -1,6 +1,6 @@
 # Dynamic Personalized Federated Learning with Adaptive Differential Privacy
 
-> Rethinking Federated Learning with Domain Shift: A Prototype View,
+> Dynamic Personalized Federated Learning with Adaptive Differential Privacy,
 
 > Xiyuan Yang, Wenke Huang，Mang Ye 
 > *NeurIPS, 2023*
