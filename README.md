@@ -7,7 +7,7 @@
 > [Link](https://neurips.cc/virtual/2023/poster/71639)
 
 ## News
-* [2023-10-18] Code has released.
+* [2023-10-08] Code has released.
 
 
 ## Abstract
